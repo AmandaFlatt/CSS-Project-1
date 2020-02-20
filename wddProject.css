@@ -1,3 +1,7 @@
 body{
-    background-color: aqua
+    background-color:cornsilk
+}
+.person_image{
+    width: 100px;
+    height: 100px;
 }

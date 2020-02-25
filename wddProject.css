@@ -3,19 +3,12 @@ body{
 }
 .person_info{
     width: 800px;
-    height: 125px;
-    padding: 10px;
-    
-}
-.nav a{
-    padding: 10px;
 }
 .person_image{
     float:left;
     width: 100px;
     height: 100px;
 }
-
 .nav{
     font-family:cursive;
   
@@ -34,4 +27,18 @@ h1{
     height:100px;
     line-height: 100px;
     text-align:center
+}
+.day-box{
+  background-color:#DCE3FF;
+  width: 800px;
+  height:100px;
+}
+.day-box.PREP div{
+  float:left;
+  padding-right: 10px;
+ 
+}
+
+.reading-box{
+    width: 350px;   
 }

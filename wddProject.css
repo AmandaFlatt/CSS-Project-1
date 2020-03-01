@@ -68,3 +68,24 @@ h1{
   padding-right: 10px;
   padding-bottom: 10px;
 }
+.account_form{
+  width:300px;
+}
+.account_form label{
+  width:300px;
+
+}
+.account_form input{
+  width:300px;
+}
+.account_form div{
+  font-family:cursive;
+    background-color:black;
+    color:cornsilk;
+    height:100px;
+    line-height: 100px;
+    text-align:center;
+    width: 800px;
+    font-size: 24px;
+    
+}

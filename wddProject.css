@@ -32,7 +32,7 @@ h1{
 .day-box{
   background-color:#DCE3FF;
   width: 1000px;
-  height:100px;
+  height:150px;
 }
 .day-box.PREP div{
   float:left;
@@ -43,7 +43,6 @@ h1{
 
 .reading-box{
     width: 450px;
-    text-align:center;
        
 }
 .day{

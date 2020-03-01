@@ -3,6 +3,7 @@ body{
 }
 .person_info{
     width: 800px;
+    height:150px;
 }
 .person_image{
     float:left;
@@ -30,7 +31,7 @@ h1{
 }
 .day-box{
   background-color:#DCE3FF;
-  width: 800px;
+  width: 1000px;
   height:100px;
 }
 .day-box.PREP div{
@@ -41,7 +42,7 @@ h1{
 }
 
 .reading-box{
-    width: 350px;
+    width: 450px;
     text-align:center;
        
 }

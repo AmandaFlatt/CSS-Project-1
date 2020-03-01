@@ -91,3 +91,7 @@ h1{
   font-size: 24px;
     
 }
+table{
+  border-top-width:5px;
+  border-top-style:solid;
+}

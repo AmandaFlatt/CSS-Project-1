@@ -43,7 +43,17 @@ h1{
 
 .reading-box{
     width: 450px;
+    height: 120px;
+    border-left-width:5px;
+    border-left-style:solid;
+    padding-left:10px;
+    border-right-width:5px;
+    border-right-style:solid;
+
        
+}
+.prep-box{
+  padding-left:10px;
 }
 .day{
     width:150px;

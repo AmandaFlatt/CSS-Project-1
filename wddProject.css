@@ -1,6 +1,19 @@
 body{
-    background-color:cornsilk
+    background-color:cornsilk;
+    background-image:url(cartoon-jeep-png-10.png);
+    background-repeat:no-repeat;
+    background-position: relative;
+    animation: DriveCar 5s infinite;
+    animation-fill-mode:forwards;
 }
+@keyframes DriveCar{
+        0%{ left: 0px; top: 0px;}
+        25%{left: 200px; top: 0px;}
+        50%{left: 200px; top: 200px;}
+        75%{left: 0px; top: 200px;}
+        100%{ left: 0px; top: 0px;}
+}
+
 .person_info{
     width: 800px;
     height:150px;
@@ -14,12 +27,21 @@ body{
     font-family:cursive;
   
 }
+@font-face{
+  font-family: IndieFlower;
+  src: url(https://fonts.googleapis.com/css?family=Indie+Flower&display=swap);
+  
+
+}
+
+
  .username{
     font-size:20px;
-    font-family:cursive;
+    font-family:IndieFlower, cursive;
     padding-left: 100px;
     padding-right: 100px;
 }
+
 
 h1{
     font-family:sans-serif;
@@ -91,7 +113,7 @@ h1{
   line-height: 100px;
   text-align:center;
   width: 800px;
-  
+ 
     
 }
 table{

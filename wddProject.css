@@ -2,16 +2,7 @@ body{
     background-color:cornsilk;
     background-image:url(cartoon-jeep-png-10.png);
     background-repeat:no-repeat;
-    background-position: relative;
-    animation: DriveCar 5s infinite;
-    animation-fill-mode:forwards;
-}
-@keyframes DriveCar{
-        0%{ left: 0px; top: 0px;}
-        25%{left: 200px; top: 0px;}
-        50%{left: 200px; top: 200px;}
-        75%{left: 0px; top: 200px;}
-        100%{ left: 0px; top: 0px;}
+    background-position:right top;
 }
 
 .person_info{
@@ -119,4 +110,10 @@ h1{
 table{
   border-top-width:5px;
   border-top-style:solid;
+}
+
+table td{
+  text-align:center;
+  background-color:;
+  background-color: #9ba98d;
 }

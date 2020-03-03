@@ -47,12 +47,12 @@ h1{
     height: 120px;
     border-left-width:5px;
     border-left-style:solid;
+    border-left-color: #754a00;
     padding-left:10px;
     border-right-width:5px;
     border-right-style:solid;
-    background-color:#DCE3FF;
-
-       
+    border-right-color: #754a00;
+    background-color:tan;
 }
 .prep-box{
   padding-left:10px;
@@ -98,4 +98,3 @@ table{
   border-top-width:5px;
   border-top-style:solid;
 }
-

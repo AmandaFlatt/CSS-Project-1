@@ -18,17 +18,12 @@ body{
     font-family:cursive;
   
 }
-@font-face{
-  font-family: IndieFlower;
-  src: url(https://fonts.googleapis.com/css?family=Indie+Flower&display=swap);
-  
 
-}
 
 
  .username{
     font-size:25px;
-    font-family:IndieFlower, cursive;
+    font-family: cursive;
     padding-left: 100px;
     padding-right: 100px;
 }
